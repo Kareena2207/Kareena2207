@@ -54,7 +54,8 @@ I am passionate about:
 - Semester VI: Digital Signal Processing, Embedded Processors, Engineering Economics and Management, Machine Learning with Python Programming, Information Theory and Coding
 - Semester VII: Computer Networks, VLSI System Design, Soft Computing, Data Science and Applications, Internet of Things
 - Semester VIII: Environmental Studies
-  *Achievements:*
+  
+  **Achievements:**
 - Second Rank Holder
 - Winner of iBase Android App Development Workshop for Startup Enthusiasts
 - Completed a two week internship on Embedded System Design organized by EdGate Technologies Pvt. Ltd., Bangalore under Texas Instruments India University Program
