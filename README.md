@@ -65,12 +65,19 @@ I am passionate about:
 ## 💼 Experience
 
 ### 🖥️ Associate Intern
-**Capgemini, India**
+**Capgemini, Pune, India**
 📅 *February 2023 – June 2023*
 - Developed ~30 automated C-based test cases for ECU embedded automotive software systems, improving test coverage and reliability across critical control modules
 - Designed test harnesses and scripts to streamline ECU verification workflows, improving efficiency by ~15%
 - Collaborated with a large cross-functional engineering team to identify edge cases and validate embedded software behavior against automotive reliability standards
 
+### 🖥️ Experienced Trainer
+**Codeyoung, Bangalore, India**
+📅 *January 2020 – December 2021*
+- Taught 100+ K–12 students foundational programming in Python and Scratch through project-based learning
+- Delivered 50+ interactive sessions per semester, improving student coding engagement and retention rates
+- Mentored students on small coding projects, guiding them from concept to working implementation
+- Tracked individual student progress and adapted teaching strategies to address learning gaps and improve outcomes
 ---
 
 ## 🤖 Project Highlights
