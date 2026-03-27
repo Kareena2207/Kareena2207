@@ -54,7 +54,7 @@ I am passionate about:
 - Semester VI: Digital Signal Processing, Embedded Processors, Engineering Economics and Management, Machine Learning with Python Programming, Information Theory and Coding
 - Semester VII: Computer Networks, VLSI System Design, Soft Computing, Data Science and Applications, Internet of Things
 - Semester VIII: Environmental Studies
-*Achievements:*
+  *Achievements:*
 - Second Rank Holder
 - Winner of iBase Android App Development Workshop for Startup Enthusiasts
 - Completed a two week internship on Embedded System Design organized by EdGate Technologies Pvt. Ltd., Bangalore under Texas Instruments India University Program
@@ -121,17 +121,10 @@ I am passionate about:
 "Underwater Image Surveillance/Recognition."
 *International Journal of Innovative Research in Technology (IJIRT)*, Vol. 9, Issue 12, May 2023. ISSN: 2349-6002.
 
----
-
-## 📄 Certifications
-
-*(Add any Coursera, Udemy, NPTEL, or other certifications you have here)*
-
----
 
 ## 🌟 Fun Facts
 
-**Interests:** 📸 Photography ✈️ Travelling 🎵 Music 🌊 Exploring new places
+**Interests:** 🎨Painting 👩‍🍳Cooking 📸Photography ✈️Travelling 🎵Music 🌊Exploring new places
 
 ---
 
