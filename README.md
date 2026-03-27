@@ -33,14 +33,31 @@ I am passionate about:
 **M.S. Robotics & Autonomous Systems (Artificial Intelligence)**
 📅 *August 2024 – May 2026 (Expected)*
 - GPA: 3.85 / 4.00
-- Courses: Robotic Systems, Perception in Robotics, Artificial Intelligence, NLP, Multi-Robot Systems, Embedded Machine Learning, Deep Learning
-
+- NAMU Scholarship holder(Fall 2024)
+- Semester I : Applied Linear Algebra for EGR, Robotics Systems I, Machine Learning and Deep Learning
+- Semester II: Artificial Intelligence, Perception in Robotics, Advances in Robot Learning
+- Semester III: Natural Language Processing, Multi-Robot Systems, Embedded Machine Learning
+- Semester IV: Bio-inspired AI and Optimization
+  
 ---
 
 ### 🖋️ MIT-ADT University, Pune, India
 **B.Tech. Electronics & Communication Engineering**
 📅 *August 2019 – July 2023*
 - GPA: 8.60 / 10.00 (~3.54 / 4.0 US equivalent)
+  *Courses:*
+- Semester I: Linear Algebra and Calculus, Engineering Physics, Basics of Electrical and Electronics Engineering, Engineering Graphics, English Communication for Engineers
+- Semester II: Electronic Devices and Circuits, Engineering Chemistry, Programming for Problem Solving, Ordinary Differential Equations and Advanced Calculus
+- Semester III: Integral Calculus and Transform Techniques, Electronic Circuit Analysis, Signals and Systems, Digital Logic Design, Network Theory
+- Semester IV: Data Structures and Algorithms, Control Systems, Computer Organization, Linear Integrated Circuits
+- Semester V: Power Electronics, Digital Communication Systems, Systems Programming, Microprocessors and Microcontrollers, Electromagnetic Field Theory
+- Semester VI: Digital Signal Processing, Embedded Processors, Engineering Economics and Management, Machine Learning with Python Programming, Information Theory and Coding
+- Semester VII: Computer Networks, VLSI System Design, Soft Computing, Data Science and Applications, Internet of Things
+- Semester VIII: Environmental Studies
+*Achievements:*
+- Second Rank Holder
+- Winner of iBase Android App Development Workshop for Startup Enthusiasts
+- Completed a two week internship on Embedded System Design organized by EdGate Technologies Pvt. Ltd., Bangalore under Texas Instruments India University Program
 
 ---
 
